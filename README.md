@@ -1,7 +1,7 @@
 - I believe in Data that creates impact.
 - Data Science at TecMonterrey
 - Statistics and Probability at Delft University
-- Math at University of Ouro Preto
+- Statistics at FMU
 - In 2017 I've started my project in delivering data science engineering and analytics solutions to customers. 
 - Were about a lot of work and know-how accumulated, incredible business partners in several sectors. 
 - In this scope, I've had worked as I continued leading assorted projects:
