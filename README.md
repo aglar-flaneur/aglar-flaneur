@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mateus Lofrano</h1>
+<h1 align="center">Hi, I'm Mateus Lofrano</h1>
 <h3 align="center">I'm a Data Scientist from Brazil.</h3>
 
 - 🔭 I’m currently working on [Aglardata Analytics](https://www.aglardata.com/)
