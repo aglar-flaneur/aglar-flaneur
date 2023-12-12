@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Mateus Lofrano</h1>
 <h3 align="center">I'm a Data Scientist from Brazil.</h3>
 
-- 🔭 I’m currently working on [Aglardata Analytics](https://www.aglardata.com/)
+- 🔭 I’m currently working on [guara.](https://www.guaralytics.com/)
 
-- 💬 Ask me about **mathfin, forecasting and real stats**
+- 💬 Ask me about **credit risk modeling, mathfin, forecasting and real stats**
 
-- 📫 How to reach me **consultoria@aglardata.com**
+- 📫 How to reach me **consultoria@guaralytics.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
