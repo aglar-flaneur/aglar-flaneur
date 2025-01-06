@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [guara.](https://www.guaralytics.com/)
 
-- 💬 Ask me about **credit risk modeling, mathfin, forecasting and real stats**
+- Created credit as a service platform at 4intelligence; Advanced analytics in CESAR LATAM clients (hardware and mobility sectors); Data Science applied to financial services, linguistics and environmentalism.
+
+- 💬 Ask me about **credit risk modelling, math fun, forecasting and real stats**
 
 - 📫 How to reach me **consultoria@guaralytics.com**
 
