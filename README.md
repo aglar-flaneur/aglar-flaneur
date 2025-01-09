@@ -14,9 +14,9 @@
 - Hands-on expertise in predictive and classification ML models (XGBoost, LightGBM, CatBoost, Statsmodels, TensorFlow, Keras, PyTorch, Theano).
 - Skilled in feature selection, extraction, and transformation to enhance model performance and interpretability.
 - Experience implementing **Data Lakes** and **Data Marts** on cloud platforms: 
-  - **AWS** (S3, Redshift, Glue)
+  - **AWS** (S3, Redshift, Glue, Lambda, EMR, EC2, Sagemaker, Databricks, MLFlow)
   - **Azure** (Azure Databricks, Azure Data Storage)
-  - **GCP**
+  - **GCP** (BigQuery)
 - Proficient in data orchestration tools such as **Apache Airflow** and **Kafka**.
 - Professional experience in **Data Visualization** tools like Tableau, Power BI, and Data Studio.
 - Strong background in **ETL processes**.
