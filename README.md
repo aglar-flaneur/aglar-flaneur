@@ -1,25 +1,45 @@
-<h1 align="center" style="color:#2ecc71;">Olá, sou Mateus Lofrano</h1>
-<h3 align="center" style="color:#27ae60;">Cientista de Dados do Brasil</h3>
+<h1 align="center" style="color:#2ecc71;">Hi, I'm Mateus Lofrano</h1>
+<h3 align="center" style="color:#27ae60;">Data Scientist with 7+ years of experience</h3>
 
-- 🔭 Atualmente, estou trabalhando na [Guaralytics](https://www.guaralytics.com/), focada em soluções analíticas avançadas.
+🌍 **Successfully delivered projects in:** 🇧🇷 🇨🇦 🇮🇹 🇦🇪 🇨🇱
 
-- 💼 Experiência em:
-  - Desenvolvimento de plataforma de crédito como serviço na 4intelligence.
-  - Análise avançada para clientes da CESAR LATAM nos setores de hardware e mobilidade.
-  - Aplicação de ciência de dados em serviços financeiros, linguística e ambientalismo.
+---
 
-- 💬 Pergunte-me sobre **modelagem de risco de crédito, diversão matemática, previsões e estatísticas reais**.
+### 🛠️ **About Me**
+- 7+ years of experience in **Data Science** and **Data Engineering**.
+- Hands-on expertise in predictive and classification ML models (XGBoost, LightGBM, CatBoost, Statsmodels, TensorFlow, Keras, PyTorch, Theano).
+- Skilled in feature selection, extraction, and transformation to enhance model performance and interpretability.
+- Experience implementing **Data Lakes** and **Data Marts** on cloud platforms: 
+  - **AWS** (S3, Redshift, Glue)
+  - **Azure** (Azure Databricks, Azure Data Storage)
+  - **GCP**
+- Proficient in data orchestration tools such as **Apache Airflow** and **Kafka**.
+- Professional experience in **Data Visualization** tools like Tableau, Power BI, and Data Studio.
+- Strong background in **ETL processes**.
+- Advanced programming knowledge in **Python**, **Spark**, **SQL**, and **R**.
 
-- 📫 Entre em contato: **consultoria@guaralytics.com**
+I am deeply focused on maximizing business value while ensuring cost-effectiveness and efficient resource utilization in data projects. My approach emphasizes understanding clients' objectives and translating executive board strategies into viable Data Science products. As a problem solver in Big Data and Data Science projects, I specialize in getting stalled projects back on track and delivering tangible value.
 
-<h3 align="left" style="color:#2ecc71;">Conecte-se comigo:</h3>
+### 🚀 **Key Competencies**
+- **Business Focused:** Delivering maximum value to clients.
+- **Agile Methodologies:** Strong foundation in Kanban, Scrum, and Agile (Jira, Trello).
+- **Big Data Solutions:** Expert at handling large-scale data challenges and driving value from them.
+
+---
+
+### 📜 **Certifications**
+- Statistics and Data Science (include badge or link if applicable).
+
+---
+
+<h3 align="left" style="color:#2ecc71;">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mateus-lofrano/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(90deg);" />
   </a>
 </p>
 
-<h3 align="left" style="color:#2ecc71;">Linguagens e Ferramentas:</h3>
+<h3 align="left" style="color:#2ecc71;">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="filter: hue-rotate(90deg);" />
@@ -27,11 +47,11 @@
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" style="filter: hue-rotate(90deg);" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="filter: hue-rotate(90deg);" />
-  </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40" style="filter: hue-rotate(90deg);" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="filter: hue-rotate(90deg);" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="filter: hue-rotate(90deg);" />
