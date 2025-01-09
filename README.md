@@ -1,7 +1,7 @@
 
 
 <h1 align="center" style="background-color:#2ecc71; color:white; padding:10px; border-radius:10px;">
-  Mateus Lofrano
+  Hi! I'm Mateus Lofrano
 </h1>
 <h3 align="center" style="color:#27ae60;">Data Scientist with 7+ years of experience</h3>
 
