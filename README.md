@@ -1,4 +1,10 @@
-<h1 align="center" style="color:#2ecc71;">Hi, I'm Mateus Lofrano</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgtPxXCwLyL1Eh6/giphy.gif" alt="Palm leaves gif" width="100%" height="200">
+</p>
+
+<h1 align="center" style="background-color:#2ecc71; color:white; padding:10px; border-radius:10px;">
+  Mateus Lofrano
+</h1>
 <h3 align="center" style="color:#27ae60;">Data Scientist with 7+ years of experience</h3>
 
 🌍 **Successfully delivered projects in:** 🇧🇷 🇨🇦 🇮🇹 🇦🇪 🇨🇱
@@ -19,11 +25,6 @@
 - Advanced programming knowledge in **Python**, **Spark**, **SQL**, and **R**.
 
 I am deeply focused on maximizing business value while ensuring cost-effectiveness and efficient resource utilization in data projects. My approach emphasizes understanding clients' objectives and translating executive board strategies into viable Data Science products. As a problem solver in Big Data and Data Science projects, I specialize in getting stalled projects back on track and delivering tangible value.
-
-### 🚀 **Key Competencies**
-- **Business Focused:** Delivering maximum value to clients.
-- **Agile Methodologies:** Strong foundation in Kanban, Scrum, and Agile (Jira, Trello).
-- **Big Data Solutions:** Expert at handling large-scale data challenges and driving value from them.
 
 ---
 
