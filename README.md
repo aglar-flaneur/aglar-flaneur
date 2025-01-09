@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgtPxXCwLyL1Eh6/giphy.gif" alt="Palm leaves gif" width="100%" height="200">
-</p>
+
 
 <h1 align="center" style="background-color:#2ecc71; color:white; padding:10px; border-radius:10px;">
   Mateus Lofrano
