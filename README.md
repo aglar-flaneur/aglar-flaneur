@@ -27,7 +27,7 @@ I am deeply focused on maximizing business value while ensuring cost-effectivene
 ---
 
 ### 📜 **Certifications**
-- Statistics and Data Science (include badge or link if applicable).
+- Statistics and Data Science.
 
 ---
 
