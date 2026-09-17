@@ -25,10 +25,10 @@
 I am deeply focused on maximizing business value while ensuring cost-effectiveness and efficient resource utilization in data projects. My approach emphasizes understanding clients' objectives and translating executive board strategies into viable Data Science products. As a problem solver in Big Data and Data Science projects, I specialize in getting stalled projects back on track and delivering tangible value.
 
 ---
-
-### 📜 **Certifications**
-- Statistics and Data Science.
-
+### 🎓 Academic Research (MIPT)
+- **Master’s Degree:** Contemporary Combinatorics, Moscow Institute of Physics and Technology (МФТИ).
+- **Featured Paper & Seminar:** [Graph Theory Risk Propagation in Stochastic Environments](https://gagnovgross.github.io/)
+- **Interactive Monograph & Simulators:** [View Full Research Report](https://gagnovgross.github.io/report.html)
 ---
 
 <h3 align="left" style="color:#2ecc71;">Connect with me:</h3>
